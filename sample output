@@ -1,0 +1,14 @@
+===== CALCULATOR MENU =====
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Unit Conversion
+6. Quit
+
+Enter your choice: 1
+
+Enter first number: 20
+Enter second number: 10
+
+Result: 30.0
